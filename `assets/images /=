@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Full Name] - E-Portfolio</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>[Your Full Name]</h1>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#hobbies">Hobbies</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about" class="hero">
+            <img src="assets/images/profile.jpg" alt="Profile Picture">
+            <div>
+                <h2>Hi, I'm [Your Full Name]</h2>
+                <p>Passionate IT Student from San Isidro College</p>
+            </div>
+        </section>
+
+        <section id="education">
+            <h2><i class="fas fa-graduation-cap"></i> Education</h2>
+            <div class="card">
+                <h3>San Isidro College</h3>
+                <p>BS Information Technology | [Year] - Present</p>
+            </div>
+        </section>
+
+        <section id="skills">
+            <h2><i class="fas fa-tools"></i> Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-card">HTML/CSS</div>
+                <div class="skill-card">JavaScript</div>
+                <div class="skill-card">Python</div>
+                <div class="skill-card">Git/GitHub</div>
+            </div>
+        </section>
+
+        <section id="hobbies">
+            <h2><i class="fas fa-heart"></i> Hobbies & Interests</h2>
+            <ul>
+                <li>Web Development</li>
+                <li>Game Development</li>
+                <li>Mountain Biking</li>
+                <li>Digital Art</li>
+            </ul>
+        </section>
+
+        <section id="portfolio">
+            <h2><i class="fas fa-images"></i> Portfolio</h2>
+            <img src="assets/images/portfolio1.jpg" alt="Portfolio Image">
+        </section>
+
+        <section id="contact">
+            <h2><i class="fas fa-envelope"></i> Contact Me</h2>
+            <p>Email: your.email@school.edu.ph</p>
+            <p>GitHub: github.com/yourusername</p>
+        </section>
+    </main>
+</body>
+</html>
