@@ -29,9 +29,8 @@ I am passionate about technology, creativity, and continuous learning.
 
 ---
 
-## 🖼️ Portfolio
-![Portfolio Image]<button onclick="document.getElementById('img').style.display='block'">Show</button><img id="img" src="https://via.placeholder.com/300" style="display:none;">
-
+## 🖼️ Portfolio Profile
+<button onclick="pic.style.display='block'"></button><img id="pic" src="portfolio.jpg.jpg" style="display:none;width:100px;">
 ---
 
 ## 📬 Contact & Links
