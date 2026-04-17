@@ -30,7 +30,7 @@ I am passionate about technology, creativity, and continuous learning.
 ---
 
 ## 🖼️ Portfolio
-![Portfolio Image](images/portfolio.jpg.jpg)
+![Portfolio Image](images/portfolio.jpg)
 
 ---
 
