@@ -30,7 +30,8 @@ I am passionate about technology, creativity, and continuous learning.
 ---
 
 ## 🖼️ Portfolio
-![Portfolio Image](images/portfolio1.jpg)
+![Portfolio Image](<img width="480" height="718" alt="portfolio jpg" src="https://github.com/user-attachments/assets/26b6c9f9-fe48-4240-9434-0fba1c2c0091" />
+)
 
 ---
 
